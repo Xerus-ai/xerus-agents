@@ -1,0 +1,13 @@
+{
+  "slug": "networker-nick",
+  "name": "Networker Nick",
+  "description": "Lead generation specialist. Identifies high-quality prospects on LinkedIn and manages outreach tracking to build a qualified sales pipeline.",
+  "role": "networker",
+  "model": "claude-sonnet-4-5-20250929",
+  "autonomy_level": "supervised",
+  "domain": "",
+  "primary_channel": "",
+  "channels": [],
+  "tools": ["apollo_io", "google_sheets", "hubspot", "linkedin"],
+  "heartbeat_cron": ""
+}

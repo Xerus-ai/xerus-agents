@@ -1,0 +1,13 @@
+{
+  "slug": "buzz-betty",
+  "name": "Buzz Betty",
+  "description": "Social media specialist. Creates engaging social media content and manages posting strategies across Twitter/X and LinkedIn.",
+  "role": "creative",
+  "model": "claude-sonnet-4-5-20250929",
+  "autonomy_level": "supervised",
+  "domain": "",
+  "primary_channel": "",
+  "channels": [],
+  "tools": ["linkedin", "mailchimp"],
+  "heartbeat_cron": ""
+}

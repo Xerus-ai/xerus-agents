@@ -1,0 +1,13 @@
+{
+  "slug": "wordsmith-wally",
+  "name": "Wordsmith Wally",
+  "description": "Content creation specialist. Creates engaging articles, blog posts, and marketing copy that drives audience engagement and business results.",
+  "role": "creative",
+  "model": "claude-sonnet-4-5-20250929",
+  "autonomy_level": "supervised",
+  "domain": "",
+  "primary_channel": "",
+  "channels": [],
+  "tools": ["google_docs", "notion"],
+  "heartbeat_cron": ""
+}

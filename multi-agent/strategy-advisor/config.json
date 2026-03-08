@@ -1,0 +1,13 @@
+{
+  "slug": "strategy-advisor",
+  "name": "Strategy Advisor",
+  "description": "Strategic advisory specialist for multi-agent team workflows. Evaluates options, weighs trade-offs, and delivers actionable recommendations.",
+  "role": "networker",
+  "model": "claude-sonnet-4-5-20250929",
+  "autonomy_level": "supervised",
+  "domain": "",
+  "primary_channel": "",
+  "channels": [],
+  "tools": [],
+  "heartbeat_cron": ""
+}

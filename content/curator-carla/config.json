@@ -1,0 +1,13 @@
+{
+  "slug": "curator-carla",
+  "name": "Curator Carla",
+  "description": "Content curation specialist. Finds trending topics, viral content ideas, and curates high-quality content from multiple sources for content marketing strategies.",
+  "role": "creative",
+  "model": "claude-sonnet-4-5-20250929",
+  "autonomy_level": "supervised",
+  "domain": "",
+  "primary_channel": "",
+  "channels": [],
+  "tools": ["firecrawl", "reddit"],
+  "heartbeat_cron": ""
+}

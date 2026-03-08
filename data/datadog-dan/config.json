@@ -1,0 +1,13 @@
+{
+  "slug": "datadog-dan",
+  "name": "DataDog Dan",
+  "description": "Data analysis specialist. Analyzes data, creates visualizations, and delivers actionable insights from spreadsheet data and business metrics.",
+  "role": "analyst",
+  "model": "claude-sonnet-4-5-20250929",
+  "autonomy_level": "supervised",
+  "domain": "",
+  "primary_channel": "",
+  "channels": [],
+  "tools": ["airtable_oauth", "google_sheets"],
+  "heartbeat_cron": ""
+}
