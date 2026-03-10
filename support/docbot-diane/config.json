@@ -3,7 +3,7 @@
   "name": "DocBot Diane",
   "description": "Documentation specialist. Creates, organizes, and maintains comprehensive documentation using Notion and Atlassian tools.",
   "role": "organizer",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",

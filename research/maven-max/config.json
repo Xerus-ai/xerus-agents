@@ -3,7 +3,7 @@
   "name": "Maven Max",
   "description": "Market validation specialist. Validates market size and opportunities through social media analysis, professional network research, and industry data.",
   "role": "researcher",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",

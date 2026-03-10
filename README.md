@@ -72,7 +72,7 @@ Each agent also has a `config.json` with runtime configuration read by the backe
   "name": "Agent Name",
   "description": "One-line description",
   "role": "researcher | creative | analyst | organizer | networker",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised | semi_autonomous | autonomous",
   "domain": "",
   "primary_channel": "",

@@ -3,7 +3,7 @@
   "name": "Code Expert",
   "description": "Software engineering specialist for multi-agent team workflows. Code review, implementation patterns, debugging, and architecture.",
   "role": "analyst",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",

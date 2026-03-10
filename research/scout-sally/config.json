@@ -3,7 +3,7 @@
   "name": "Scout Sally",
   "description": "Product discovery specialist. Finds existing products, analyzes competitors, and identifies market gaps using Product Hunt launches, web content, and user reviews.",
   "role": "researcher",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",

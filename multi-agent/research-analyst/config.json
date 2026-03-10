@@ -3,7 +3,7 @@
   "name": "Research Analyst",
   "description": "Deep research and analysis specialist for multi-agent team workflows. Synthesizes information from multiple sources into structured findings.",
   "role": "researcher",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",

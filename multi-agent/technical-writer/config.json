@@ -3,7 +3,7 @@
   "name": "Technical Writer",
   "description": "Transforms complex information into clear documentation and guides for multi-agent team workflows.",
   "role": "creative",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",

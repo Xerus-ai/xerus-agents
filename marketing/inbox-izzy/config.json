@@ -3,7 +3,7 @@
   "name": "Inbox Izzy",
   "description": "Email management specialist. Manages inbox efficiently by triaging emails, drafting responses, and running targeted email campaigns using Gmail.",
   "role": "organizer",
-  "model": "claude-sonnet-4-5-20250929",
+  "model": "claude-sonnet-4.5",
   "autonomy_level": "supervised",
   "domain": "",
   "primary_channel": "",
