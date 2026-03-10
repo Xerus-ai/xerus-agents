@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": ["apollo_io", "google_sheets", "hubspot", "linkedin"],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c15-2-1-38-11"
 }

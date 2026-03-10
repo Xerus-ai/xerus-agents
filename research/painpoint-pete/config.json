@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": ["firecrawl", "reddit"],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c2-3-0-55-9"
 }

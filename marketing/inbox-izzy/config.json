@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": ["gmail", "google_sheets"],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c16-3-1-40-18"
 }

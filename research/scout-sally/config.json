@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": ["firecrawl", "product_hunt"],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c8-0-2-10-19"
 }

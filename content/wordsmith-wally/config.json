@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": ["google_docs", "notion"],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c7-4-0-22-8"
 }

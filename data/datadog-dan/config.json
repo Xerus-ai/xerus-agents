@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": ["airtable_oauth", "google_sheets"],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c12-1-3-48-15"
 }

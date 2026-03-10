@@ -9,5 +9,6 @@
   "primary_channel": "",
   "channels": [],
   "tools": [],
-  "heartbeat_cron": ""
+  "heartbeat_cron": "",
+  "mascot": "mascot:c9-0-2-28-10"
 }
